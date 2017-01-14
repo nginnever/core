@@ -70,6 +70,7 @@
     "bitcore-lib": "^0.13.12",
     "bitcore-message": "^1.0.2",
     "bitcore-mnemonic": "^1.1.1",
+    "chunk-store-stream": "^2.0.2",
     "diglet": "^1.0.6",
     "hdkey": "^0.7.1",
     "ip": "^1.1.2",
